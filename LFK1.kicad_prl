@@ -37,7 +37,6 @@
       9,
       10,
       11,
-      12,
       13,
       14,
       15,
@@ -66,7 +65,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "KeyboardM.kicad_prl",
+    "filename": "LFK1.kicad_prl",
     "version": 3
   },
   "project": {
