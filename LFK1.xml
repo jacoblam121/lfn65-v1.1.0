@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\light\OneDrive\Documents\GitHub\KeyboardTestM\KeyboardM.kicad_sch</source>
-    <date>2/18/2023 10:25:08 PM</date>
+    <source>C:\Users\light\OneDrive\Documents\GitHub\LFK1\LFK1.kicad_sch</source>
+    <date>2/21/2023 4:44:40 PM</date>
     <tool>Eeschema (6.0.10)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>KeyboardM.kicad_sch</source>
+        <source>LFK1.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -44,91 +44,91 @@
   <components>
     <comp ref="C1">
       <value>22p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e9c21b76-b2f5-4dd9-b540-588e0a6a8a3d</tstamps>
     </comp>
     <comp ref="C2">
       <value>22p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c030f918-5a0f-4543-bf13-b127fdd8c5a2</tstamps>
     </comp>
     <comp ref="C3">
       <value>1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>96779279-8f4a-46ef-9a90-2ea5ec30c8b2</tstamps>
+      <tstamps>3d12ed1a-eeab-483a-b689-8bda55e92fc3</tstamps>
     </comp>
     <comp ref="C4">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>29a715ce-be66-4c11-bd1a-2950b0c010d7</tstamps>
     </comp>
     <comp ref="C5">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>452b09e0-4d7c-46e4-8351-09cef9d175b0</tstamps>
     </comp>
     <comp ref="C6">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8c560cfc-7659-43c7-8e63-9665651b509b</tstamps>
     </comp>
     <comp ref="C7">
       <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>97a65afe-1a40-45c3-8ce0-610738ed9a06</tstamps>
     </comp>
     <comp ref="C8">
       <value>10u</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>67d0ba3d-dbf9-447b-abe6-a71e8a0f11e5</tstamps>
     </comp>
     <comp ref="F1">
       <value>500m</value>
-      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
       <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>adefa4cb-25d6-49ec-8a35-7de846e508e1</tstamps>
     </comp>
     <comp ref="FB1">
       <value>60@100MHz</value>
-      <footprint>Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
       <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>51da023e-8ffa-4a25-ba67-59d0c5840119</tstamps>
     </comp>
@@ -138,61 +138,61 @@
       <datasheet> ~</datasheet>
       <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2e2641ac-10fa-49ec-a8b7-e0fc22a6da60</tstamps>
     </comp>
     <comp ref="R1">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3765e45a-9f1d-4cae-805e-320f859ddcac</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>1a8a98e6-ae33-4f50-94b6-5a8676312783</tstamps>
+      <tstamps>bf3efe9c-c510-4bb9-866c-40aa8118e9b6</tstamps>
     </comp>
     <comp ref="R3">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dbe96627-6a09-447b-9415-6200b9308ca6</tstamps>
     </comp>
     <comp ref="R4">
       <value>22</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2bf873e5-6490-4304-a3be-d5a53e47faad</tstamps>
     </comp>
     <comp ref="R5">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cfe53b80-e710-4c04-a03d-4e757032eb32</tstamps>
     </comp>
     <comp ref="R6">
       <value>5.1k</value>
-      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>65f3a5ff-1c48-407a-af85-12a56aa59f33</tstamps>
     </comp>
@@ -201,44 +201,44 @@
       <footprint>Button_Switch_SMD:SW_SPST_SKQG_WithStem</footprint>
       <libsource lib="SW_SK" part="SW_SKQG" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0532b1bb-89cb-461c-ac2e-8086df8ac37a</tstamps>
     </comp>
     <comp ref="U1">
-      <value>ATmega32U4-A</value>
-      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
+      <value>ATmega32U4-M</value>
+      <footprint>Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
-      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"/>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-M" description="16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b83167fd-d647-4e90-9efb-cea133c4b82f</tstamps>
+      <tstamps>1a4f963a-36aa-43df-b949-615e9d18f3b4</tstamps>
     </comp>
     <comp ref="U2">
       <value>PRTR5V0U2X</value>
       <footprint>random-keyboard-parts:SOT143B</footprint>
       <libsource lib="random-keyboard-parts" part="PRTR5V0U2X" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00251a83-e18a-4bff-b218-cd88da5ae4da</tstamps>
     </comp>
     <comp ref="USB1">
       <value>HRO-TYPE-C-31-M-12</value>
-      <footprint>Type-C:HRO-TYPE-C-31-M-12-HandSoldering</footprint>
+      <footprint>Type-C:HRO-TYPE-C-31-M-12-Assembly</footprint>
       <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a61fbb2-3e55-4359-aadd-01202bc896de</tstamps>
     </comp>
     <comp ref="Y1">
       <value>Crystal_GND24_Small</value>
-      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering</footprint>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="KeyboardM.kicad_sch"/>
+      <property name="Sheetfile" value="LFK1.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f9a183ad-848f-4597-bfbf-a623f5407b7b</tstamps>
     </comp>
@@ -1539,16 +1539,16 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-A">
-      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44</description>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega32U4-M">
+      <description>16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, QFN-44</description>
       <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</docs>
       <footprints>
-        <fp>TQFP*10x10mm*P0.8mm*</fp>
+        <fp>QFN*1EP*7x7mm*P0.5mm*</fp>
       </footprints>
       <fields>
         <field name="Reference">U</field>
-        <field name="Value">ATmega32U4-A</field>
-        <field name="Footprint">Package_QFP:TQFP-44_10x10mm_P0.8mm</field>
+        <field name="Value">ATmega32U4-M</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm</field>
         <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
       </fields>
       <pins>
@@ -1596,6 +1596,7 @@
         <pin num="42" name="AREF" type="passive"/>
         <pin num="43" name="GND" type="passive"/>
         <pin num="44" name="AVCC" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="SW_SK" part="SW_SKQG">
@@ -1672,10 +1673,10 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="Type-C">
-      <uri>C:\Users\light\OneDrive\Documents\GitHub\KeyboardTestM/Type-C.pretty/Type-C.lib</uri>
+      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK1/Type-C.pretty/Type-C.lib</uri>
     </library>
     <library logical="random-keyboard-parts">
-      <uri>C:\Users\light\OneDrive\Documents\GitHub\KeyboardTestM/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
+      <uri>C:\Users\light\OneDrive\Documents\GitHub\LFK1/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib</uri>
     </library>
   </libraries>
   <nets>
@@ -1738,6 +1739,7 @@
       <node ref="U1" pin="23" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="35" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="45" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
       <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
